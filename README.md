@@ -6,7 +6,7 @@ A practical guide to different **JavaScript looping techniques used in React app
 
 React does not provide its own loop syntax. Instead, developers use **standard JavaScript array methods and loops** inside JSX.
 
----
+--
 
 # Table of Contents
 
